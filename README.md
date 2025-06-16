@@ -5,4 +5,4 @@ this module is made to format a given number using a table of place values defin
 
 `11834571` -> `11.83M`
 
-it ain't perfect, but it's close enough.
+it isn't perfect, but it's close enough.
